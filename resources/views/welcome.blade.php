@@ -30,8 +30,10 @@
                     @endauth
                 </div>
             @endif
-
-            
+            <div>
+                        <h1 style="font-weight: 700; font-size: 50px;">IT 120 - CHAT APPLICATION</h1>
+                </div>
         </div>
+            
     </body>
 </html>
